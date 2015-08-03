@@ -1,0 +1,11 @@
+{
+	Filter = {
+		Executables = (
+			WhatsApp,
+		);
+		Bundles = (
+			"net.whatsapp.WhatsApp",
+		);
+		Mode = Any;
+	};
+}
